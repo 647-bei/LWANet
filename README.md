@@ -9,6 +9,7 @@ Official PyTorch implementation of the paper **"LWANet: Lightweight Wavelet Atte
 ---
 
 ## 📖 Introduction
+[Uploading fig1.pdf…]()
 
 Depth maps play a crucial role in synthesized view generation for 3D Video (3DV) systems. However, **3D-HEVC** compression inevitably introduces artifacts like blockiness and ringing, which degrade the quality of synthesized views and cause visual discomfort in VR/AR applications.
 
